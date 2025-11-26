@@ -1,4 +1,4 @@
-const ComputerPlayer = require('../GameController/computerPlayer');
+const ComputerPlayer = require('../GameController/computerPlayers');
 
 describe('ComputerPlayer', () => {
     it('should not fire at the same position twice', () => {
